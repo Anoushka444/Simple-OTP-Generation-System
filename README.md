@@ -27,4 +27,3 @@ Generate an App Password.
 6. Copy the index.js file, make changes if you need any modifications and run the backend server by firing this command
 7. node index.js
 8. This will print a randomly generated 6-character otp on the console and will send the OTP on your registered email address.
-9. 
